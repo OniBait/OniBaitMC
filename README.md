@@ -25,8 +25,9 @@ OniBait MC Server config files and issue tracking.
 - AtomicScience 0.6.1.80 --> 0.6.2.117
 - Chisel 1.5.2-1.4.7 --> 1.5.2-1.4.8fix
 - Extra Utils 0.2.4d --> 0.2.4f
-- IndustrialCraft2-1.116.369-lf --> industrialcraft-2_1.117.385-lf
-- LogisticsPipes-MC1.5.2-0.7.3.dev.595 --> LogisticsPipes-MC1.5.2-0.7.3.dev.609
+- IndustrialCraft2-1.116.369-lf --> 2_1.117.385-lf
+- LogisticsPipes-MC1.5.2-0.7.3.dev.595 --> MC1.5.2-0.7.3.dev.609
+- Natura 2.1.3 --> 2.1.4
 - NEI Addons 1.8.0.r23 --> 1.8.2.r31
 - Thaumic Tinkerer 1.0.7 --> 10.0.8
 - Translocator 1.1.0.3 --> 1.1.0.4
