@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "bau5_ProjectBench",
+    "name": "Project Bench",
+    "description": "Project Bench - for all those failed crafting attempts because of forgotten materials",
+    "version": "1.7.5",
+    "url": "http://www.minecraftforum.net/topic/1550010-142132sspsmp-project-bench-forge/"
+  },
+  "modVals": [
+    {
+      "name": "ProjectBench",
+      "version": "1.7.5",
+      "longurl": "http://www.minecraftforum.net/topic/1550010-",
+      "shorturl": "http://goo.gl/JyLYX",
+      "aliases": "",
+      "comment": "",
+      "modid": "bau5_ProjectBench",
+      "dev": ""
+    }
+  ]
+}

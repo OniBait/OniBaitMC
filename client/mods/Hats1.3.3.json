@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "Hats",
+    "name": "Hats",
+    "description": "Adds a bunch of hats, as wells as the ability to add more, into Minecraft",
+    "version": "1.3.3",
+    "url": "http://ichun.us/mods/hats/"
+  },
+  "modVals": [
+    {
+      "name": "Hats",
+      "version": "1.3.3",
+      "longurl": "http://ichun.us/mods/hats/",
+      "shorturl": "http://goo.gl/64vtT",
+      "aliases": "",
+      "comment": "Slightly incompatible with SmartMoving and MineLittlePony",
+      "modid": "Hats",
+      "dev": ""
+    }
+  ]
+}

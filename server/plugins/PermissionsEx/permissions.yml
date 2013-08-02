@@ -1,0 +1,342 @@
+groups:
+  Default:
+    default: true
+    permissions:
+    - essentials.rules
+    - essentials.motd
+    - essentials.list
+    - essentials.helpop
+    - essentials.help
+    - modifyworld.*
+    - bungeesuite.chat.prefix.Newbie
+    - bungeesuite.chat.nickname.display
+    - bungeesuite.chat.nickname.prefix
+    prefix: '&e'
+    options:
+      build: false
+      rank: '1000'
+  Builder:
+    permissions:
+    - essentials.afk
+    - essentials.chat.color
+    - essentials.chat.shout
+    - essentials.chat.question
+    - essentials.chat.url
+    - essentials.compass
+    - essentials.depth
+    - essentials.home
+    - essentials.back
+    - essentials.sethome
+    - essentials.delhome
+    - essentials.ignore
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.msg
+    - essentials.nick
+    - essentials.ping
+    - essentials.signs.use.*
+    - essentials.spawn
+    - essentials.suicide
+    - essentials.time
+    - deathchest.signchest.use
+    - deathchest.spawnchest.spawn
+    - bungeesuite.portal.use.*
+    - bungeesuite.chat.prefix.Builder
+    - bungeesuite.chat.user
+    inheritance:
+    - default
+    prefix: '&2[&bBuilder&2] &b'
+    options:
+      build: true
+      rank: '500'
+  Moderator:
+    permissions:
+    - essentials.ban
+    - essentials.ban.notify
+    - essentials.banip
+    - essentials.broadcast
+    - essentials.clearinventory
+    - essentials.delwarp
+    - essentials.eco.loan
+    - essentials.ext
+    - essentials.getpos
+    - essentials.helpop.recieve
+    - essentials.home.others
+    - essentials.invsee
+    - essentials.jails
+    - essentials.jump
+    - essentials.kick
+    - essentials.kick.notify
+    - essentials.kill
+    - essentials.mute
+    - essentials.nick.others
+    - essentials.realname
+    - essentials.setwarp
+    - essentials.signs.create.*
+    - essentials.signs.break.*
+    - essentials.spawner
+    - essentials.thunder
+    - essentials.time
+    - essentials.time.set
+    - essentials.protect.alerts
+    - essentials.protect.admin
+    - essentials.protect.ownerinfo
+    - essentials.ptime
+    - essentials.ptime.others
+    - essentials.togglejail
+    - essentials.top
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.tp
+    - essentials.tphere
+    - essentials.tppos
+    - essentials.tptoggle
+    - essentials.unban
+    - essentials.unbanip
+    - essentials.warp
+    - essentials.weather
+    - essentials.whois
+    - essentials.world
+    - essentials.worlds.*
+    - permissions.user.promote.default
+    - permissions.user.demote.default
+    - permissions.manage.membership
+    inheritance:
+    - builder
+    prefix: '&2[&6Moderator&2] &6'
+    options:
+      build: true
+      rank: '200'
+  OmbudsLADY:
+    permissions:
+    - bungeesuite.chat.prefix.OmbudsLADY
+    prefix: '&2[&6OmbudsLADY&2] &6'
+    inheritance:
+    - moderator
+    options:
+      build: true
+      rank: '199'
+  Admin:
+    permissions:
+    - -essentials.backup
+    - -essentials.essentials
+    - -essentials.setspawn
+    - -essentials.reloadall
+    - essentials.*
+    - permissions.manage.users
+    - permissions.manage.users.permissions
+    - permissions.manage.users.permissions.timed
+    - bungeesuite.chat.prefix.Admin
+    inheritance:
+    - moderator
+    prefix: '&2[&6Admin&2] &6'
+    options:
+      build: true
+      rank: '100'
+  Owner:
+    permissions:
+    - bungeesuite.chat.nickname.*
+    - bungeesuite.chat.prefix.Owner
+    - '*'
+    inheritance:
+    - admin
+    prefix: '&2[&6Owner&2] &6'
+    options:
+      build: true
+      rank: '0'
+users:
+  onibait:
+    group:
+    - Owner
+  ComputerCraft:
+    group:
+    - Builder
+  Horib:
+    group:
+    - Admin
+  OniBaitKiddo:
+    group:
+    - Builder
+  dominoslave:
+    group:
+    - Builder
+  flamepattern:
+    group:
+    - Builder
+  strophex:
+    group:
+    - Builder
+  strophik:
+    group:
+    - Builder
+  avald:
+    group:
+    - Builder
+  h3mix:
+    group:
+    - Builder
+  slurpeeslurp:
+    group:
+    - Builder
+  mightymice24:
+    group:
+    - Builder
+  ScottMfknBoland:
+    group:
+    - Builder
+  lolaligt:
+    group:
+    - Builder
+  danialjakup:
+    group:
+    - Builder
+  hansmikkelsen:
+    group:
+    - Builder
+  '[BuildCraft]':
+    group:
+    - Builder
+  Brandur13:
+    group:
+    - Builder
+  JFunk03:
+    group:
+    - Builder
+  3ch000:
+    group:
+    - Builder
+  Neoshadow07:
+    group:
+    - Builder
+  raizunne:
+    group:
+    - Builder
+  WeWeDe_95:
+    group:
+    - Admin
+  Meinhardd:
+    group:
+    - Builder
+  sjw361:
+    group:
+    - Builder
+  CoffeeCrazy:
+    group:
+    - Builder
+  gofan:
+    group:
+    - Builder
+  mvolling:
+    group:
+    - Builder
+  maglor:
+    group:
+    - Builder
+  flapjackluxs:
+    group:
+    - Builder
+  brickbuilder06:
+    group:
+    - Builder
+  Silver_Moonrox:
+    group:
+    - Builder
+  holyman20:
+    group:
+    - Builder
+  IrishJ3di:
+    group:
+    - Builder
+  Allonsy93:
+    group:
+    - Builder
+  fernando_35:
+    group:
+    - Builder
+  whirlpool247:
+    group:
+    - Builder
+  Cooki3Monsta:
+    group:
+    - Builder
+  Tubamage17:
+    group:
+    - Builder
+  iAmos19:
+    group:
+    - Builder
+  Audiodrome:
+    group:
+    - Builder
+  tclark93:
+    group:
+    - Builder
+  AlphaReaver:
+    group:
+    - Builder
+  leelucky2:
+    group:
+    - Builder
+  mrnlsn:
+    group:
+    - Builder
+  solaris187:
+    group:
+    - Builder
+  Bzsarok:
+    group:
+    - Builder
+  CrazyArtist101:
+    group:
+    - Builder
+  JuwanSkinner:
+    group:
+    - Builder
+  Juntje:
+    group:
+    - Builder
+  kaerofvita:
+    group:
+    - Default
+  takerofvita:
+    group:
+    - Builder
+  Calypants:
+    group:
+    - Builder
+  _Tyde_:
+    group:
+    - Builder
+  Oh_wait:
+    group:
+    - Builder
+  Jesstafer:
+    group:
+    - Builder
+  SillySal404:
+    group:
+    - OmbudsLADY
+  monte_rustio:
+    group:
+    - Builder
+  MbutuMbasa:
+    group:
+    - Builder
+  Kharel:
+    group:
+    - Builder
+  DenKon:
+    group:
+    - Builder
+  ZiggyOdell:
+    group:
+    - Builder
+  drblakl:
+    group:
+    - Builder
+  zymyth:
+    group:
+    - Builder

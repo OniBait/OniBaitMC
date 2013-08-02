@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "GalacticraftCore",
+    "name": "Galacticraft Core",
+    "description": "An advanced space travel mod for Minecraft 1.5",
+    "version": "a0.1.36.410",
+    "url": "http://www.micdoodle8.com/"
+  },
+  "modVals": [
+    {
+      "name": "Galacticraft",
+      "version": "a0.1.36.410",
+      "longurl": "http://www.micdoodle8.com/mods/galacticraft",
+      "shorturl": "http://goo.gl/CpBaJ",
+      "aliases": "gc",
+      "comment": "",
+      "modid": "GalacticraftCore",
+      "dev": ""
+    }
+  ]
+}

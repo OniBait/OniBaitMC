@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "WR-CBE|RedPower",
+    "name": "WR-CBE RedPower",
+    "description": "Transmitter, Receiver and Jammer blocks. Integrated with RedPower Logic for covers and wall placement",
+    "version": "1.4.0.2",
+    "url": "http://www.minecraftforum.net/topic/909223"
+  },
+  "modVals": [
+    {
+      "name": "WR-CBE-Logic",
+      "version": "dev-only",
+      "longurl": "http://www.chickenbones.craftsaddle.org/wr.html",
+      "shorturl": "http://goo.gl/7zbA9",
+      "aliases": "",
+      "comment": "DL: http://adf.ly/RDyK3 | Requires ForgeMultipart and WR-CBE Core",
+      "modid": "",
+      "dev": "1.4"
+    }
+  ]
+}

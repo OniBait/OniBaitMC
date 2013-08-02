@@ -1,0 +1,15 @@
+{
+  "modInfo": null,
+  "modVals": [
+    {
+      "name": "DenPipes",
+      "version": "2.0.7",
+      "longurl": "http://www.minecraftforum.net/topic/1536511-152buildcraft-denpipes-201/",
+      "shorturl": "http://goo.gl/UPZky",
+      "aliases": "",
+      "comment": "Requires denLib",
+      "modid": "DenPipes",
+      "dev": ""
+    }
+  ]
+}

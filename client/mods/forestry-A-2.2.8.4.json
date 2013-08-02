@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "Forestry",
+    "name": "Forestry for Minecraft",
+    "description": "Trees, bees and more.",
+    "version": "2.2.8.4 (611)",
+    "url": "http://forestry.sengir.net/"
+  },
+  "modVals": [
+    {
+      "name": "Forestry",
+      "version": "2.2.8.4",
+      "longurl": "http://forestry.sengir.net/wiki.new/doku.php",
+      "shorturl": "http://goo.gl/kO9OM",
+      "aliases": "",
+      "comment": "",
+      "modid": "Forestry",
+      "dev": ""
+    }
+  ]
+}

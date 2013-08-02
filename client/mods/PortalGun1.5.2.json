@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "PortalGun",
+    "name": "PortalGun",
+    "description": "Add the portal gun and many other portal elements into Minecraft.",
+    "version": "1.5.2",
+    "url": "http://www.minecraftforum.net/topic/199391-/"
+  },
+  "modVals": [
+    {
+      "name": "PortalGun",
+      "version": "1.5.2",
+      "longurl": "http://ichun.us/mods/portalgun/",
+      "shorturl": "http://goo.gl/yAvD6",
+      "aliases": "pg",
+      "comment": "Requires iChunUtil",
+      "modid": "PortalGun",
+      "dev": ""
+    }
+  ]
+}

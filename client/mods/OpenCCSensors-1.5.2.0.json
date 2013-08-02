@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "OCS",
+    "name": "OpenCCSensors",
+    "description": "",
+    "version": "1.5.2.0",
+    "url": "http://www.computercraft.info"
+  },
+  "modVals": [
+    {
+      "name": "OpenCCSensors",
+      "version": "1.5.2.0",
+      "longurl": "http://www.computercraft.info/forums2/index.php?/topic/5996-",
+      "shorturl": "http://goo.gl/00HsY",
+      "aliases": "ocs",
+      "comment": "",
+      "modid": "OCS",
+      "dev": ""
+    }
+  ]
+}

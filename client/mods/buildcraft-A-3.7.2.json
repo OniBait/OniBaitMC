@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "BuildCraft|Core",
+    "name": "BuildCraft",
+    "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!",
+    "version": "3.7.2 (35)",
+    "url": "http://www.mod-buildcraft.com/"
+  },
+  "modVals": [
+    {
+      "name": "Buildcraft",
+      "version": "3.7.2",
+      "longurl": "http://www.mod-buildcraft.com/",
+      "shorturl": "http://goo.gl/TvCIy",
+      "aliases": "bc bc3",
+      "comment": "3.7.2 - http://bit.ly/12rzVI3",
+      "modid": "BuildCraft|Core",
+      "dev": ""
+    }
+  ]
+}

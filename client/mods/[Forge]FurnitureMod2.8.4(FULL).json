@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "cfm",
+    "name": "MrCrayfish's Furniture Mod",
+    "description": "This mod adds in a bunch of new things including, Chairs, Tables, Fridges and Freezers, Carpet, Couches, Blinds, Curtains, Ovens, Coffee Tables, Lamps, Hedges, Birth Baths and so much more, I couldn't be bothered listing them all!",
+    "version": "2.8.4",
+    "url": "http://www.mrcrayfish.com/"
+  },
+  "modVals": [
+    {
+      "name": "MrCrayfish'sFurniture",
+      "version": "2.8.4",
+      "longurl": "http://www.minecraftforum.net/topic/1114866-",
+      "shorturl": "http://goo.gl/Ndbef",
+      "aliases": "",
+      "comment": "",
+      "modid": "cfm",
+      "dev": ""
+    }
+  ]
+}

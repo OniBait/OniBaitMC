@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "InfiniBows",
+    "name": "Infinity Bow Fix",
+    "description": "Removes the need for a single arrow in the inventory when using an \"Infinity I\" enchanted bow.",
+    "version": "1.0.0.10",
+    "url": "http://smarturl.it/InfiniBows"
+  },
+  "modVals": [
+    {
+      "name": "InfiniBows",
+      "version": "1.0.0.10",
+      "longurl": "http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/",
+      "shorturl": "http://goo.gl/Vv7mH",
+      "aliases": "",
+      "comment": "Coremod",
+      "modid": "InfiniBows",
+      "dev": ""
+    }
+  ]
+}

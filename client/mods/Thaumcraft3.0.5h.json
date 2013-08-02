@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "Thaumcraft",
+    "name": "Thaumcraft",
+    "description": "Adding a touch of magic to Minecraft",
+    "version": "3.0.5h1",
+    "url": "http://www.minecraftforum.net/topic/838839-100-thaumcraft/"
+  },
+  "modVals": [
+    {
+      "name": "Thaumcraft3",
+      "version": "3.0.5h",
+      "longurl": "http://www.minecraftforum.net/topic/1585216-",
+      "shorturl": "http://goo.gl/i12ve",
+      "aliases": "tc3",
+      "comment": "",
+      "modid": "Thaumcraft",
+      "dev": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "BiomesOPlenty",
+    "name": "Biomes O' Plenty",
+    "description": "Adds 87 new, unique biomes!",
+    "version": "0.5.7",
+    "url": "www.minecraftforum.net/topic/1495041-"
+  },
+  "modVals": [
+    {
+      "name": "BiomesOPlenty",
+      "version": "0.5.7",
+      "longurl": "https://github.com/BiomesOPlenty/BiomesOPlenty/releases",
+      "shorturl": "http://goo.gl/IyF6B",
+      "aliases": "bop",
+      "comment": "A 0.5.7 version was made by typhox for 1.5.2",
+      "modid": "BiomesOPlenty",
+      "dev": ""
+    }
+  ]
+}

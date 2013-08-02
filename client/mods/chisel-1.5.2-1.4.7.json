@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "Vending",
+    "name": "Vending",
+    "description": "Adds a chisel item that lets you carve blocks like cobblestone or sandstone. Adds two new blocks to world generation: marble and limestone, which can be be carved and crafted into many various building materials.",
+    "version": "1.4.7",
+    "url": ""
+  },
+  "modVals": [
+    {
+      "name": "Chisel",
+      "version": "1.4.7",
+      "longurl": "http://www.minecraftforum.net/topic/1749374-",
+      "shorturl": "http://goo.gl/1U1E6",
+      "aliases": "",
+      "comment": "",
+      "modid": "",
+      "dev": ""
+    }
+  ]
+}

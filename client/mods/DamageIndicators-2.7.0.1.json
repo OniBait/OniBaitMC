@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "DamageIndicatorsMod",
+    "name": "Damage Indicators",
+    "description": "Displays the damage you inflict on creatures, as well as current health, name and potion effects.",
+    "version": "2.7.0.1",
+    "url": "http://www.minecraftforum.net/topic/1536685-"
+  },
+  "modVals": [
+    {
+      "name": "DamageIndicators",
+      "version": "2.7.0.1",
+      "longurl": "http://www.minecraftforum.net/topic/1536685-",
+      "shorturl": "http://goo.gl/6yXNT",
+      "aliases": "",
+      "comment": "",
+      "modid": "DamageIndicatorsMod",
+      "dev": ""
+    }
+  ]
+}

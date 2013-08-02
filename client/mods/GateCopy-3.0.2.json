@@ -1,0 +1,15 @@
+{
+  "modInfo": null,
+  "modVals": [
+    {
+      "name": "GateCopy",
+      "version": "3.0.2",
+      "longurl": "http://www.minecraftforum.net/topic/1253666-",
+      "shorturl": "http://goo.gl/T9X4D",
+      "aliases": "",
+      "comment": "Requires denLib 3.X",
+      "modid": "GateCopy",
+      "dev": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "PowersuitAddons",
+    "name": "Andrew2448's Modular Powersuits Addon",
+    "description": "A mod which expands on Modular Powersuits' module options",
+    "version": "0.2.3-165",
+    "url": "http://www.machinemuse.net/"
+  },
+  "modVals": [
+    {
+      "name": "ModularPowersuits-Addons",
+      "version": "165",
+      "longurl": "http://goo.gl/Fqjwx",
+      "shorturl": "",
+      "aliases": "mpsa",
+      "comment": "",
+      "modid": "PowersuitAddons",
+      "dev": "186"
+    }
+  ]
+}

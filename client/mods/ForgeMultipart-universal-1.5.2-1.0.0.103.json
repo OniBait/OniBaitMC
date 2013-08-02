@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "CCMultipart",
+    "name": "Forge Multipart",
+    "description": "Open source library for facilitation of multiple functional parts in the one block space.",
+    "version": "1.0.0.103",
+    "url": "https://github.com/Chicken-Bones/ForgeMultipart"
+  },
+  "modVals": [
+    {
+      "name": "ForgeMultipart",
+      "version": "0.0.0.58",
+      "longurl": "http://files.minecraftforge.net/ForgeMultipart/",
+      "shorturl": "",
+      "aliases": "",
+      "comment": "Required for WR-CBE",
+      "modid": "",
+      "dev": "1.4"
+    }
+  ]
+}

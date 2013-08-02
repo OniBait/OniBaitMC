@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "flatsigns",
+    "name": "Flat Signs",
+    "description": "FlatSigns provides new sign functionality allowing signs to be placed flat on the ceiling or the floor (via sneak click). You can also make sponges to edit existing signs.",
+    "version": "1.3.2.14",
+    "url": "http://smarturl.it/FlatSigns"
+  },
+  "modVals": [
+    {
+      "name": "FlatSigns",
+      "version": "1.3.1.10",
+      "longurl": "http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/",
+      "shorturl": "http://goo.gl/Vv7mH",
+      "aliases": "",
+      "comment": "Requires Forge #684+",
+      "modid": "flatsigns",
+      "dev": ""
+    }
+  ]
+}

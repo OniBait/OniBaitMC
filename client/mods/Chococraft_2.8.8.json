@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "chococraft",
+    "name": "Torojima's ChocoCraft",
+    "description": "Adds a mountable, breedable mob and supporting items.",
+    "version": "2.8.8",
+    "url": "http://www.minecraftforum.net/topic/1119809-"
+  },
+  "modVals": [
+    {
+      "name": "ChocoCraft",
+      "version": "2.8.7",
+      "longurl": "http://www.minecraftforum.net/topic/1119809-",
+      "shorturl": "http://goo.gl/jDiAQ",
+      "aliases": "",
+      "comment": "",
+      "modid": "chococraft",
+      "dev": ""
+    }
+  ]
+}

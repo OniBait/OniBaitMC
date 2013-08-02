@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "DimDoors",
+    "name": "Dimensional Doors",
+    "description": "Bend and twist reality itself, creating pocket dimensions, rifts, and much more",
+    "version": "1.4.1RC1",
+    "url": "http://www.minecraftforum.net/topic/1650007-147smpssplan-dimensional-doors-v110-physics-what-physics-updated-with-fancy-opengl/"
+  },
+  "modVals": [
+    {
+      "name": "DimensionalDoors",
+      "version": "1.4.0",
+      "longurl": "http://www.minecraftforum.net/topic/1650007-",
+      "shorturl": "http://goo.gl/b5rh8",
+      "aliases": "dimdoors dd",
+      "comment": "Latest at http://build.technicpack.net/job/DimDoors/",
+      "modid": "DimDoors",
+      "dev": "1.4.1RC1-196"
+    }
+  ]
+}

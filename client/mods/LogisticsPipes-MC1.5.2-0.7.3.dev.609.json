@@ -1,0 +1,15 @@
+{
+  "modInfo": null,
+  "modVals": [
+    {
+      "name": "LogisticsPipes",
+      "version": "0.7.3.6",
+      "longurl": "http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/",
+      "shorturl": "http://goo.gl/JKbRJ",
+      "aliases": "lp",
+      "comment": "Release (BC 3.5.3) | Latest at http://goo.gl/Q8bVz (BC 3.7.1)",
+      "modid": "LogisticsPipes|Main",
+      "dev": "0.7.3.dev.587"
+    }
+  ]
+}

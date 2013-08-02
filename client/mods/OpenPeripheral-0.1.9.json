@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "OpenPeripheral",
+    "name": "OpenPeripheral",
+    "description": "Converts many blocks into ComputerCraft peripherals!",
+    "version": "0.1.9",
+    "url": "http://www.computercraft.info"
+  },
+  "modVals": [
+    {
+      "name": "OpenPeripheral",
+      "version": "0.1.9",
+      "longurl": "http://www.openperipheral.info/openperipheral/",
+      "shorturl": "http://goo.gl/zt9uI",
+      "aliases": "openp",
+      "comment": "Use http://goo.gl/PfZ90 for MPS #547+",
+      "modid": "OpenPeripheral",
+      "dev": ""
+    }
+  ]
+}

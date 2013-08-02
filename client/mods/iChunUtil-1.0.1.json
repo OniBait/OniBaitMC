@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "iChunUtil",
+    "name": "iChunUtil",
+    "description": "Shared library mod required by several of iChun's Mods.",
+    "version": "1.0.1",
+    "url": "http://www.ichun.us/"
+  },
+  "modVals": [
+    {
+      "name": "iChunUtil",
+      "version": "1.0.1",
+      "longurl": "http://ichun.us/mods/ichun-util/",
+      "shorturl": "http://goo.gl/Fr1Rl",
+      "aliases": "",
+      "comment": "",
+      "modid": "iChunUtil",
+      "dev": ""
+    }
+  ]
+}

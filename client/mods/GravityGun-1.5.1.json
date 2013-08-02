@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "GraviGun",
+    "name": "GraviGun",
+    "description": "Adds the HL2 Gravity Gun to Minecraft",
+    "version": "1.5.1",
+    "url": "http://ichun.us/mods/gravity-gun/"
+  },
+  "modVals": [
+    {
+      "name": "GravityGun",
+      "version": "1.5.1",
+      "longurl": "http://ichun.us/mods/gravity-gun/",
+      "shorturl": "http://goo.gl/1lhph",
+      "aliases": "",
+      "comment": "Requires iChunUtil",
+      "modid": "GraviGun",
+      "dev": ""
+    }
+  ]
+}

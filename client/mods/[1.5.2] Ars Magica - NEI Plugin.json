@@ -1,0 +1,25 @@
+{
+  "modInfo": null,
+  "modVals": [
+    {
+      "name": "ArsMagicaNEIPlugin",
+      "version": "1.2.0a",
+      "longurl": "http://www.minecraftforum.net/topic/1793019-",
+      "shorturl": "http://goo.gl/zM0sb",
+      "aliases": "",
+      "comment": "",
+      "modid": "",
+      "dev": ""
+    },
+    {
+      "name": "ArsMagica",
+      "version": "5.52.013",
+      "longurl": "http://www.minecraftforum.net/topic/1486184-",
+      "shorturl": "http://goo.gl/pPQgr",
+      "aliases": "",
+      "comment": "Requires Forge #700+ | Incompatible with OCS 0.1.5f/g",
+      "modid": "ArsMagica",
+      "dev": ""
+    }
+  ]
+}

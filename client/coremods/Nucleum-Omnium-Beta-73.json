@@ -1,0 +1,10 @@
+{
+  "modInfo": {
+    "modid": "OmniumCore",
+    "name": "CCM Core",
+    "description": "Core functionality for all CCM Mods",
+    "version": "Beta-73",
+    "url": "https://github.com/CCM-Modding/Nucleum-Omnium"
+  },
+  "modVals": []
+}

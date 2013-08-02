@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "AdvancedSolarPanel",
+    "name": "Advanced Solar Panels",
+    "description": "Advanced solar panels is new generation of using solar power. This is addon for IndustrialCraft 2",
+    "version": "3.3.7",
+    "url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291"
+  },
+  "modVals": [
+    {
+      "name": "AdvancedSolarPanels",
+      "version": "3.3.7",
+      "longurl": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291",
+      "shorturl": "http://goo.gl/WgeZH",
+      "aliases": "",
+      "comment": "Requires IC2 1.115.308+ & Forge 7.8.0.688+",
+      "modid": "AdvancedSolarPanel",
+      "dev": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "GraviSuite",
+    "name": "Gravitation Suite",
+    "description": "Gravitation Suite give you ability to fly. This is addon for IndustrialCraft 2",
+    "version": "1.9.3",
+    "url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915"
+  },
+  "modVals": [
+    {
+      "name": "GravitationSuite",
+      "version": "1.9.3",
+      "longurl": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915",
+      "shorturl": "http://goo.gl/qt1QK",
+      "aliases": "",
+      "comment": "Requires IC2 1.115.349+ & Forge 7.8.1.738+",
+      "modid": "GraviSuite",
+      "dev": ""
+    }
+  ]
+}

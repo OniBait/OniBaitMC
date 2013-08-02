@@ -1,0 +1,6 @@
+&6Welcome, {PLAYER}&6!
+&6Currently online:&r {PLAYERLIST}
+&fWe have a Mumble server up and running - Feel free to use it
+&bAddress: &aonibaitmc.dyndns.org &bPort: &a64738
+&bPassword: &aWatchOut!Creeper
+Vending blocks removed: http://tinyurl.com/ntrs25m

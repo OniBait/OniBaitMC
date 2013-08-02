@@ -1,0 +1,27 @@
+plugin:
+  SpawnChest:
+    worldGuardEnable: false
+    checkChestInInventory: false
+    protectWithLWC: false
+  DeathChest:
+    checkCreationWithLWC: false
+    useLightningBreakDCSign: false
+  Transfer:
+    limitItems: 100
+    randomPick: true
+    transferEquipped: true
+  General:
+    autoTurnOffSoftDependsOptionsOnError: true
+    autoUpdate: false
+    remindUpdate: true
+    useSecureChestInsteadOfLWC: false
+    useLocketteInsteadOfLWC: false
+    checkForBattleNight: false
+    useDeathSpawnType: sign
+    useEXPOrbs: true
+  SpawnContainer:
+    disableSpawnContainerInWorlds: []
+  SpawnSign:
+    EXPValue: 0.75
+    LWCSignProtect: false
+    despawnTimeInMin: 4320

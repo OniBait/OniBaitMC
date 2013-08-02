@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "NEIPlugins",
+    "name": "NEI Plugins",
+    "description": null,
+    "version": "1.0.9.3",
+    "url": "https://bitbucket.org/mistaqur/neiplugins/wiki"
+  },
+  "modVals": [
+    {
+      "name": "NEIPlugins",
+      "version": "1.0.9.3",
+      "longurl": "https://bitbucket.org/mistaqur/nei_plugins/wiki/Home",
+      "shorturl": "http://goo.gl/sUJ9h",
+      "aliases": "",
+      "comment": "",
+      "modid": "NEIPlugins",
+      "dev": ""
+    }
+  ]
+}

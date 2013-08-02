@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "ThaumicTinkerer",
+    "name": "Thaumic Tinkerer",
+    "description": "An addon to Thaumcraft 3, implementing new content. This mod is a spiritual successor to Elemental Tinkerer. Researches that come from this mod are prefixed by [TT]. Compiled for Thaumcraft 3.0.5h1.",
+    "version": "1.0.8",
+    "url": "minecraftforum.net/topic/1813058-"
+  },
+  "modVals": [
+    {
+      "name": "ThaumicTinkerer",
+      "version": "1.0.8",
+      "longurl": "http://www.minecraftforum.net/topic/1813058-",
+      "shorturl": "http://goo.gl/VnwAe",
+      "aliases": "",
+      "comment": "Req. Forge #695+ and TC 3.0.5",
+      "modid": "ThaumicTinkerer",
+      "dev": ""
+    }
+  ]
+}

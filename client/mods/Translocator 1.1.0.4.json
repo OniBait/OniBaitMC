@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "Translocator",
+    "name": "Translocator",
+    "description": "Translocates stuff!\n  \nCredits: MouseCop - Textures",
+    "version": "1.1.0.4",
+    "url": "http://www.minecraftforum.net/topic/909223"
+  },
+  "modVals": [
+    {
+      "name": "Translocator",
+      "version": "1.1.0.4",
+      "longurl": "http://www.minecraftforum.net/topic/909223-",
+      "shorturl": "http://goo.gl/KhKVV",
+      "aliases": "",
+      "comment": "",
+      "modid": "Translocator",
+      "dev": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "modInfo": {
+    "modid": "EP2_CC",
+    "name": "EP2 ComputerCraft",
+    "description": "ComputerCraft addon for EP2.",
+    "version": "1.0",
+    "url": "http://www.minecraftforum.net/topic/1301217-/"
+  },
+  "modVals": [
+    {
+      "name": "EnhancedPortals2",
+      "version": "1.0.6",
+      "longurl": "http://www.minecraftforum.net/topic/1301217-",
+      "shorturl": "http://goo.gl/G6fpW",
+      "aliases": "",
+      "comment": "Requires EnhancedCore",
+      "modid": "",
+      "dev": ""
+    },
+    {
+      "name": "EnhancedPortals",
+      "version": "2.1.2",
+      "longurl": "http://www.minecraftforum.net/topic/1301217-",
+      "shorturl": "http://goo.gl/G6fpW",
+      "aliases": "",
+      "comment": "",
+      "modid": "",
+      "dev": ""
+    },
+    {
+      "name": "ComputerCraft",
+      "version": "1.53",
+      "longurl": "http://www.computercraft.info/",
+      "shorturl": "http://goo.gl/Rmk9s",
+      "aliases": "cc",
+      "comment": "Req. Forge #686+",
+      "modid": "ComputerCraft",
+      "dev": ""
+    }
+  ]
+}

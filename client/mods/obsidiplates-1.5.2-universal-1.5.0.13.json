@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "ObsidiPlates",
+    "name": "Obsidian Pressure Plates",
+    "description": "Provides pressure plates that can only be activated by players (plus NPC and quiet variants).",
+    "version": "1.5.0.13",
+    "url": "http://smarturl.it/ObsidiPlates"
+  },
+  "modVals": [
+    {
+      "name": "ObsidiPlates",
+      "version": "1.5.0.13",
+      "longurl": "http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/",
+      "shorturl": "http://goo.gl/Vv7mH",
+      "aliases": "",
+      "comment": "Requires Forge #684+",
+      "modid": "ObsidiPlates",
+      "dev": ""
+    }
+  ]
+}

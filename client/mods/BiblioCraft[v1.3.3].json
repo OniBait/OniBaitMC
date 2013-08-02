@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "BiblioCraft",
+    "name": "BiblioCraft",
+    "description": "BiblioCraft adds fancy storage containers including bookcases, armor stands, potion shelves, regular shelves, tool racks, glass weapon cases, wooden desks and wooden chest labels and now add machines, redstone interactions, and eyeware! New in 1.3: Fancy lamps and golden lanterns. Also Tables and enchanted plates!",
+    "version": "1.3.3",
+    "url": "http://www.minecraftforum.net/topic/1680480-147forge-bibliocraft-v100-bookcases-armor-stands-shelves-and-more/#entry20796422"
+  },
+  "modVals": [
+    {
+      "name": "Bibliocraft",
+      "version": "1.3.3",
+      "longurl": "http://www.minecraftforum.net/topic/1680480-",
+      "shorturl": "http://goo.gl/zi6tC",
+      "aliases": "",
+      "comment": "",
+      "modid": "BiblioCraft",
+      "dev": ""
+    }
+  ]
+}

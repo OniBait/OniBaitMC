@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "BiblioWoodsForestry",
+    "name": "BiblioWoods Forestry Edition",
+    "description": "Adds support for 24 varietys of wood from Forestry for 8 of the wooden block in BiblioCraft.",
+    "version": "1.0",
+    "url": "http://www.minecraftforum.net/topic/1680480-147forge-bibliocraft-v100-bookcases-armor-stands-shelves-and-more/#entry20796422"
+  },
+  "modVals": [
+    {
+      "name": "Forestry",
+      "version": "2.2.8.4",
+      "longurl": "http://forestry.sengir.net/wiki.new/doku.php",
+      "shorturl": "http://goo.gl/kO9OM",
+      "aliases": "",
+      "comment": "",
+      "modid": "Forestry",
+      "dev": ""
+    }
+  ]
+}

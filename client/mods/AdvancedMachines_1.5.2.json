@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "AdvancedMachines",
+    "name": "IC2 Advanced Machines Addon",
+    "description": "Some additional Machines for the electrical Connoisseur",
+    "version": "4.9",
+    "url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907"
+  },
+  "modVals": [
+    {
+      "name": "AdvancedMachines",
+      "version": "4.9",
+      "longurl": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907",
+      "shorturl": "http://goo.gl/QQkt7",
+      "aliases": "",
+      "comment": "",
+      "modid": "AdvancedMachines",
+      "dev": ""
+    }
+  ]
+}

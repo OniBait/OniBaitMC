@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "Natura",
+    "name": "Natura",
+    "description": "Heyo, Redwood trees! Chop them all day long!",
+    "version": "2.1 RC",
+    "url": "www.minecraftforum.net/topic/1753754-natura/"
+  },
+  "modVals": [
+    {
+      "name": "Natura",
+      "version": "2.1.3",
+      "longurl": "http://www.minecraftforum.net/topic/1753754-",
+      "shorturl": "http://goo.gl/n4it0",
+      "aliases": "",
+      "comment": "",
+      "modid": "Natura",
+      "dev": ""
+    }
+  ]
+}

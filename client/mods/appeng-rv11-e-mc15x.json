@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "AppliedEnergistics",
+    "name": "Applied Energistics",
+    "description": "A Mod About energy, and matter. Oh wait thats everything...",
+    "version": "rv11.e",
+    "url": "http://ae-mod.info/"
+  },
+  "modVals": [
+    {
+      "name": "AppliedEnergistics",
+      "version": "rv11.e",
+      "longurl": "http://ae-mod.info/Downloads/",
+      "shorturl": "http://goo.gl/lE0s0",
+      "aliases": "ae",
+      "comment": "",
+      "modid": "AppliedEnergistics",
+      "dev": "rv12.rc21"
+    }
+  ]
+}

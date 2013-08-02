@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "CoFHFramework",
+    "name": "CoFH Framework",
+    "description": "Framework required for all Team CoFH mods.",
+    "version": "1.5.2.5",
+    "url": "http://thermalexpansion.wikispaces.com"
+  },
+  "modVals": [
+    {
+      "name": "CoFHCore",
+      "version": "1.5.2.5",
+      "longurl": "http://thermalexpansion.wikispaces.com/",
+      "shorturl": "http://goo.gl/frbLQ",
+      "aliases": "",
+      "comment": "",
+      "modid": "CoFHFramework",
+      "dev": ""
+    }
+  ]
+}

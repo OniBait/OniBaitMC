@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "IC2",
+    "name": "IndustrialCraft 2",
+    "description": "Industrial age themed expansion for Minecraft.",
+    "version": "1.116.384-lf",
+    "url": "http://www.industrial-craft.net"
+  },
+  "modVals": [
+    {
+      "name": "IndustrialCraft2",
+      "version": "1.117.385",
+      "longurl": "http://www.industrial-craft.net/",
+      "shorturl": "http://goo.gl/H7XdL",
+      "aliases": "ic2",
+      "comment": "Latest at http://goo.gl/pAKZ4 Bug Tracker: http://bt.industrial-craft.net/",
+      "modid": "IC2",
+      "dev": "1.118.401"
+    }
+  ]
+}

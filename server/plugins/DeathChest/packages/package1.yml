@@ -1,0 +1,16 @@
+package1:
+  onibait:
+    World: world
+    X: 2602.0
+    Y: 104.0
+    Z: -221.0
+    exp: 0
+config:
+  maxTransferredItems:
+    default: ''
+    Default: ''
+    Builder: ''
+    Moderator: ''
+    OmbudsLADY: ''
+    Admin: ''
+    Owner: ''

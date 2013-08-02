@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "NumiRP",
+    "name": "NumiRP",
+    "description": "NumiRP is a temporary world gen replacement tool for RP2 by Eloraam",
+    "version": "1.0.9",
+    "url": "www.github.com/numerios/NumiRP"
+  },
+  "modVals": [
+    {
+      "name": "NumiRP",
+      "version": "1.09",
+      "longurl": "http://www.minecraftforum.net/topic/1822469-",
+      "shorturl": "http://goo.gl/BFfzt",
+      "aliases": "",
+      "comment": "",
+      "modid": "",
+      "dev": ""
+    }
+  ]
+}

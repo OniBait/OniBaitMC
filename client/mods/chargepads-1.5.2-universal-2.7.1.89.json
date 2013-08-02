@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "ChargePads",
+    "name": "Charge Pads",
+    "description": "ChargePads provides new IC2 blocks that, when stood upon, will recharge IC2 items.",
+    "version": "2.7.1.89",
+    "url": "http://smarturl.it/ChargePads"
+  },
+  "modVals": [
+    {
+      "name": "ChargePads",
+      "version": "2.7.1.89",
+      "longurl": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892",
+      "shorturl": "http://goo.gl/RH7rF",
+      "aliases": "",
+      "comment": "",
+      "modid": "ChargePads",
+      "dev": ""
+    }
+  ]
+}

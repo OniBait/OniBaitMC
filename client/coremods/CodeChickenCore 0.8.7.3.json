@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "CodeChickenCore",
+    "name": "CodeChickenCore",
+    "description": "Core library for all ChickenBones mods",
+    "version": "0.8.7.3",
+    "url": "http://www.minecraftforum.net/topic/909223"
+  },
+  "modVals": [
+    {
+      "name": "CodeChickenCore",
+      "version": "0.8.7.3",
+      "longurl": "http://www.minecraftforum.net/topic/909223-",
+      "shorturl": "http://goo.gl/KhKVV",
+      "aliases": "ccc",
+      "comment": "",
+      "modid": "CodeChickenCore",
+      "dev": ""
+    }
+  ]
+}

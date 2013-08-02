@@ -1,0 +1,15 @@
+{
+  "modInfo": null,
+  "modVals": [
+    {
+      "name": "ImmibisMicroblocks",
+      "version": "55.0.7",
+      "longurl": "http://www.minecraftforum.net/topic/1001131-",
+      "shorturl": "http://goo.gl/DZjqn",
+      "aliases": "",
+      "comment": "Edit the .cfg when updating to 1.5.1/1.5.2: http://goo.gl/Gw4I9",
+      "modid": "ImmibisMicroblocks",
+      "dev": ""
+    }
+  ]
+}

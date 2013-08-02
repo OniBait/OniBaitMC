@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "ArsMagica",
+    "name": "Ars Magica",
+    "description": "A look into what Minecraft could become if you add a splash of magic...",
+    "version": "5.52.013",
+    "url": "http://www.minecraftforum.net/topic/1486184-"
+  },
+  "modVals": [
+    {
+      "name": "ArsMagica",
+      "version": "5.52.013",
+      "longurl": "http://www.minecraftforum.net/topic/1486184-",
+      "shorturl": "http://goo.gl/pPQgr",
+      "aliases": "",
+      "comment": "Requires Forge #700+ | Incompatible with OCS 0.1.5f/g",
+      "modid": "ArsMagica",
+      "dev": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "PowerConverters",
+    "name": "Power Converters",
+    "description": "Take control of your power",
+    "version": "2.2.0",
+    "url": "http://www.minecraftforum.net/topic/1629898-"
+  },
+  "modVals": [
+    {
+      "name": "PowerConverters",
+      "version": "2.3.1",
+      "longurl": "http://www.minecraftforum.net/topic/1629898-",
+      "shorturl": "http://goo.gl/LZfjf",
+      "aliases": "",
+      "comment": "Latest at http://goo.gl/Tw8ou",
+      "modid": "PowerConverters",
+      "dev": "2.3.2B1-61"
+    }
+  ]
+}

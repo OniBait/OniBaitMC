@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "OmniTools",
+    "name": "OmniTools",
+    "description": "OmniTools mod! OmniWrench and Forge Lexicon; compress your toolkit and your ore stash!",
+    "version": "3.1.6.0",
+    "url": "http://thermalexpansion.wikispaces.com"
+  },
+  "modVals": [
+    {
+      "name": "Omnitools",
+      "version": "3.1.6.0",
+      "longurl": "http://thermalexpansion.wikispaces.com/",
+      "shorturl": "http://goo.gl/frbLQ",
+      "aliases": "",
+      "comment": "Requires CoFHCore",
+      "modid": "OmniTools",
+      "dev": ""
+    }
+  ]
+}

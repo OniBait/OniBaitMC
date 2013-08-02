@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "Mystcraft",
+    "name": "Mystcraft",
+    "description": "Mystcraft brings elements from the Myst series of games and books to Minecraft, as well as allowing players to actually write and travel to their own Ages.",
+    "version": "0.10.5.00",
+    "url": "http://binarymage.com"
+  },
+  "modVals": [
+    {
+      "name": "MystCraft",
+      "version": "0.10.5.00",
+      "longurl": "http://binarymage.com/2013/07/03/mystcraft-0-10-5-00/",
+      "shorturl": "http://goo.gl/Qtd3f",
+      "aliases": "",
+      "comment": "",
+      "modid": "Mystcraft",
+      "dev": ""
+    }
+  ]
+}

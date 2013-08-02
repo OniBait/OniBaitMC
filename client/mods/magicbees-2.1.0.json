@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "MagicBees",
+    "name": "Magic Bees",
+    "description": "Magic themed bee expansion for Forestry. TC3, EE3, AM compatible!",
+    "version": "2.1.0 (build 38)",
+    "url": "http://bit.ly/XFDvLY"
+  },
+  "modVals": [
+    {
+      "name": "MagicBees",
+      "version": "2.1.0",
+      "longurl": "http://www.minecraftforum.net/topic/1627856-",
+      "shorturl": "http://goo.gl/75Nge",
+      "aliases": "",
+      "comment": "The successor of ThaumicBees, latest at: http://goo.gl/H7usG",
+      "modid": "MagicBees",
+      "dev": ""
+    }
+  ]
+}

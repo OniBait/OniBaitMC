@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "MineFactoryReloaded",
+    "name": "MineFactory Reloaded",
+    "description": "Automate everything!",
+    "version": "2.6.4",
+    "url": "http://www.minecraftforum.net/topic/1629898-"
+  },
+  "modVals": [
+    {
+      "name": "MineFactoryReloaded",
+      "version": "2.6.4",
+      "longurl": "http://www.minecraftforum.net/topic/1629898-",
+      "shorturl": "http://goo.gl/LZfjf",
+      "aliases": "mfr",
+      "comment": "Latest build at http://goo.gl/LqqAN",
+      "modid": "MineFactoryReloaded",
+      "dev": "2.7.0B8-1101"
+    }
+  ]
+}

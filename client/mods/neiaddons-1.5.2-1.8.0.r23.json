@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "NEIAddons",
+    "name": "NEI Addons",
+    "description": "",
+    "version": "1.8.0.r23",
+    "url": "bdew.net/mods/neiaddons"
+  },
+  "modVals": [
+    {
+      "name": "NEIAddons",
+      "version": "1.8.1",
+      "longurl": "http://www.minecraftforum.net/topic/1803460-",
+      "shorturl": "http://goo.gl/yh9fx",
+      "aliases": "",
+      "comment": "",
+      "modid": "NEIAddons",
+      "dev": ""
+    }
+  ]
+}

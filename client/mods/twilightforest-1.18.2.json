@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "TwilightForest",
+    "name": "The Twilight Forest",
+    "description": "An enchanted forest dimension.",
+    "version": "1.18.2",
+    "url": "http://http://www.minecraftforum.net/topic/561673-"
+  },
+  "modVals": [
+    {
+      "name": "TwilightForest",
+      "version": "1.18.2",
+      "longurl": "http://www.minecraftforum.net/topic/561673-",
+      "shorturl": "http://goo.gl/xaCkD",
+      "aliases": "",
+      "comment": "",
+      "modid": "TwilightForest",
+      "dev": ""
+    }
+  ]
+}

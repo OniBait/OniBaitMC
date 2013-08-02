@@ -1,0 +1,24 @@
+id = config.getBlockId("timberShuttersRightID");
+name = "timberShuttersRight";
+material = "wood";
+creativeTab = "decorations";
+stepSound = "wood";
+tickrate = 99999;
+semiTransparent = true;
+
+displayName[0] = "Right-side Shutters";
+hardness[0] = 1.0;
+drop[0] = config.getBlockId("timberShuttersRightID");
+addToCreative[0] = true;
+fireSpreadSpeed[0] = 5;
+flammability[0] = 40;
+opacity[0] = 5
+textureFileBack[0] = "shuttersRight.png";
+textureFileFront[0] = "shuttersRight.png";
+textureFileSides[0] = "shuttersRight.png";
+textureFileXP[0] = "shuttersRight.png";
+textureFileXN[0] = "shuttersRight.png";
+textureFileYP[0] = "shuttersRight.png";
+textureFileYN[0] = "shuttersRight.png";
+textureFileZP[0] = "shuttersRight.png";
+textureFileZN[0] = "shuttersRight.png";

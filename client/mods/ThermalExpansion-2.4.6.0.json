@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "ThermalExpansion",
+    "name": "Thermal Expansion",
+    "description": "Expanding Minecraft thermally - provides new options for automation and processing!",
+    "version": "2.4.6.0",
+    "url": "http://thermalexpansion.wikispaces.com"
+  },
+  "modVals": [
+    {
+      "name": "ThermalExpansion",
+      "version": "2.4.6.0",
+      "longurl": "http://thermalexpansion.wikispaces.com/",
+      "shorturl": "http://goo.gl/frbLQ",
+      "aliases": "te",
+      "comment": "Requires CoFHCore",
+      "modid": "ThermalExpansion",
+      "dev": ""
+    }
+  ]
+}

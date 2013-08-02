@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "ExtraUtilities",
+    "name": "Extra Utilities",
+    "description": "Just a bunch of fairly useful things",
+    "version": "0.2.4e",
+    "url": ""
+  },
+  "modVals": [
+    {
+      "name": "ExtraUtilities",
+      "version": "0.2.4f",
+      "longurl": "http://www.minecraftforum.net/topic/1776056-",
+      "shorturl": "http://goo.gl/2z32L",
+      "aliases": "",
+      "comment": "",
+      "modid": "ExtraUtilities",
+      "dev": ""
+    }
+  ]
+}

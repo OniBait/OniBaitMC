@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "factorization",
+    "name": "Factorization",
+    "description": "Auto-crafting, ore processing, barrels, and other toys",
+    "version": "0.8.01",
+    "url": "http://minecraftforum.net/topic/1351802-"
+  },
+  "modVals": [
+    {
+      "name": "Factorization",
+      "version": "0.8.01",
+      "longurl": "http://www.minecraftforum.net/topic/1351802-",
+      "shorturl": "http://goo.gl/OFxFV",
+      "aliases": "",
+      "comment": "",
+      "modid": "factorization",
+      "dev": ""
+    }
+  ]
+}

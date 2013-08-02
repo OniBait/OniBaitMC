@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "CarpentersBlocks",
+    "name": "Carpenter's Blocks",
+    "description": "Adds slopes and a variety of vanilla inspired blocks that support covers, side covers, overlays, dyes and chiseled patterns.",
+    "version": "1.73",
+    "url": ""
+  },
+  "modVals": [
+    {
+      "name": "Carpenter'sBlocks",
+      "version": "1.7",
+      "longurl": "http://www.minecraftforum.net/topic/1790919-",
+      "shorturl": "http://goo.gl/ITFCO",
+      "aliases": "",
+      "comment": "",
+      "modid": "CarpentersBlocks",
+      "dev": ""
+    }
+  ]
+}

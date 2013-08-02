@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "JAKJ_RedstoneInMotion",
+    "name": "Redstone In Motion",
+    "description": "A reimplementation of Redpower frames, with more flexibility and functionality, and including many new types of frames.",
+    "version": "1.2.0.1",
+    "url": null
+  },
+  "modVals": [
+    {
+      "name": "RedstoneInMotion",
+      "version": "1.2.0.1",
+      "longurl": "http://forums.technicpack.net/threads/47048/",
+      "shorturl": "http://goo.gl/O3PTz",
+      "aliases": "rim",
+      "comment": "~mostly~ stable, world saves may break between versions, BACK UP YOUR WORLDS!!",
+      "modid": "JAKJ_RedstoneInMotion",
+      "dev": ""
+    }
+  ]
+}

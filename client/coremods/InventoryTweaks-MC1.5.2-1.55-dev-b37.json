@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "inventorytweaks",
+    "name": "Inventory Tweaks",
+    "description": "Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items.",
+    "version": "1.55-dev",
+    "url": "https://github.com/Kobata/inventory-tweaks"
+  },
+  "modVals": [
+    {
+      "name": "InventoryTweaks",
+      "version": "1.54b",
+      "longurl": "http://www.minecraftforum.net/topic/1720872-",
+      "shorturl": "http://goo.gl/mfakJ",
+      "aliases": "invtweaks",
+      "comment": "dev builds: it's now a coremod! jenkins: http://goo.gl/DEQqJ",
+      "modid": "inventorytweaks",
+      "dev": ""
+    }
+  ]
+}

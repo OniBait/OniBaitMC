@@ -1,0 +1,21 @@
+{
+  "modInfo": {
+    "modid": "BiblioWoodsBoP",
+    "name": "BiblioWoods Biomes O'Plenty Edition",
+    "description": "Adds support for 16 varietys of wood from Biomes O'Plenty for 8 of the wooden block in BiblioCraft.",
+    "version": "1.0",
+    "url": "http://www.minecraftforum.net/topic/1680480-147forge-bibliocraft-v100-bookcases-armor-stands-shelves-and-more/#entry20796422"
+  },
+  "modVals": [
+    {
+      "name": "BiomesOPlenty",
+      "version": "0.5.7",
+      "longurl": "https://github.com/BiomesOPlenty/BiomesOPlenty/releases",
+      "shorturl": "http://goo.gl/IyF6B",
+      "aliases": "bop",
+      "comment": "A 0.5.7 version was made by typhox for 1.5.2",
+      "modid": "BiomesOPlenty",
+      "dev": ""
+    }
+  ]
+}
