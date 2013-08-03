@@ -36,17 +36,45 @@ config.addBlockIdProperty("timberShuttersRightID", 2558);
 var timberShuttersRightID = config.getBlockId("timberShuttersRightID");
 mod.addBlock("timberShuttersRight.js", "flat");
 
+config.addBlockIdProperty("timberPaperID", 2559);
+var timberPaperID = config.getBlockId("timberPaperID");
+mod.addBlock("timberPaper.js", "flat");
+
+//config.addBlockIdProperty("timberTilesID", 2560);
+//var timberTilesID = config.getBlockId("timberTilesID");
+//mod.addBlock("timberTiles.js", "flat");
+
+/*
+config.addBlockIdProperty("timberPaverID", 2561);
+var timberPaverID = config.getBlockId("timberPaverID");
+mod.addBlock("timberPaver.js", "flat");
+*/
+
 //--------------------------------------------------------------------------------
 
-mod.addAliasWithMetadata(timberFramesID, 0, "plainTimberFrame");
-mod.addAliasWithMetadata(timberFramesID, 1, "crossTimberFrame");
-mod.addAliasWithMetadata(timberFramesID, 2, "blankTimberFrame");
-mod.addAliasWithMetadata(timberFramesID, 3, "paperWall");
-mod.addAliasWithMetadata(timberFramesID, 4, "thatchBlock");
+mod.addAliasWithMetadata(timberChestID, 0, "timberMail");
+
+mod.addAliasWithMetadata(timberFramesID, 0, "timberFrame0");
+mod.addAliasWithMetadata(timberFramesID, 1, "timberFrame1");
+mod.addAliasWithMetadata(timberFramesID, 2, "timberFrame2");
+mod.addAliasWithMetadata(timberFramesID, 3, "timberFrame3");
+mod.addAliasWithMetadata(timberFramesID, 4, "timberFrame4");
+mod.addAliasWithMetadata(timberFramesID, 5, "timberFrame5");
+mod.addAliasWithMetadata(timberFramesID, 6, "timberFrame6");
+mod.addAliasWithMetadata(timberFramesID, 7, "timberFrame7");
+mod.addAliasWithMetadata(timberFramesID, 8, "timberFrame8");
+mod.addAliasWithMetadata(timberFramesID, 9, "timberFrame9");
+mod.addAliasWithMetadata(timberFramesID, 10, "timberFrame10");
+mod.addAliasWithMetadata(timberFramesID, 11, "timberFrame11");
+
+mod.addAliasWithMetadata(timberFramesID, 13, "paperWall");
+mod.addAliasWithMetadata(timberFramesID, 14, "timberTiles");
+mod.addAliasWithMetadata(timberFramesID, 15, "thatchBlock");
 
 mod.addAliasWithMetadata(timberStairsID, 0, "thatchStairs");
 
 mod.addAliasWithMetadata(timberPanesID, 0, "paperPane");
+mod.addAliasWithMetadata(timberPaperID, 0, "paperFlat");
 
 mod.addAliasWithMetadata(timberSlabsID, 0, "thatchSlab");
 
@@ -56,14 +84,16 @@ mod.addAliasWithMetadata(timberFloweredVinesID, 0, "timberFloweredVine");
 mod.addAliasWithMetadata(timberShuttersLeftID, 0, "timberLeftShutters");
 mod.addAliasWithMetadata(timberShuttersRightID, 0, "timberRightShutters");
 
-mod.addAliasWithMetadata(timberChestID, 0, "timberMail");
+
+//mod.addAliasWithMetadata(timberPaverID, 0, "timberPaver");
 
 //--------------------------------------------------------------------------------
 
+// Timber Mailbox
+mod.addRecipe("timberMail 1", 3, 3, ":plankWood", ":plankWood", ":plankWood", ":plankWood", 0, ":plankWood", ":plankWood", 265, ":plankWood");
+
 // Timber Frames
-mod.addRecipe("plainTimberFrame 9", 3, 3, ":plankWood", 35, ":plankWood", ":plankWood", 35, ":plankWood", ":plankWood", 35, ":plankWood");
-mod.addRecipe("crossTimberFrame 9", 3, 3, ":plankWood", 35, ":plankWood", 35, ":plankWood", 35, ":plankWood", 35, ":plankWood");
-mod.addRecipe("blankTimberFrame 9", 3, 3, ":plankWood", ":plankWood", ":plankWood", 35, ":plankWood", 35, ":plankWood", ":plankWood", ":plankWood");
+mod.addRecipe("timberFrame0 9", 3, 3, ":plankWood", ":plankWood", ":plankWood", ":plankWood", 337, ":plankWood", ":plankWood", ":plankWood", ":plankWood");
 mod.addRecipe("paperWall 9", 3, 3, ":stickWood", 339, ":stickWood", ":stickWood", 339, ":stickWood", ":stickWood", 339, ":stickWood");
 mod.addRecipe("thatchBlock 9", 3, 3, 296, 296, 296, 296, ":plankWood", 296, 296, 296, 296);
 
@@ -78,11 +108,22 @@ mod.addRecipe("paperPane 6", 3, 2, "paperWall", "paperWall", "paperWall", "paper
 
 // Timber Vines
 mod.addRecipe("timberVine 1", 3, 3, ":stickWood", 106, ":stickWood", ":stickWood", 106, ":stickWood", ":stickWood", 106, ":stickWood");
+mod.addRecipe("timberVine 1", 1, 1, "timberFloweredVine");
 mod.addRecipe("timberFloweredVine 1", 3, 3, ":stickWood", 106, ":stickWood", ":stickWood", ":stickWood", ":stickWood", ":stickWood", 106, ":stickWood");
+mod.addRecipe("timberFloweredVine 1", 1, 1, "timberVine");
 
 // Timber Shutters
 mod.addRecipe("timberLeftShutters 1", 3, 3, "5:2", ":stickWood", ":stickWood", "5:2", ":stickWood", ":stickWood", "5:2", ":stickWood", ":stickWood");
+mod.addRecipe("timberLeftShutters 1", 1, 1, "timberRightShutters");
 mod.addRecipe("timberRightShutters 1", 3, 3, ":stickWood", ":stickWood", "5:2", ":stickWood", ":stickWood", "5:2", ":stickWood", ":stickWood", "5:2");
+mod.addRecipe("timberRightShutters 1", 1, 1, "timberLeftShutters");
 
-// Timber Mailbox
-mod.addRecipe("timberMail 1", 3, 3, ":plankWood", ":plankWood", ":plankWood", ":plankWood", 0, ":plankWood", ":plankWood", 265, ":plankWood");
+// Timber Paper
+mod.addRecipe("paperFlat 1", 1, 1, "paperPane");
+mod.addRecipe("paperPane 1", 1, 1, "paperFlat");
+
+// Timber Tiles
+mod.addRecipe("timberTiles 6", 3, 2, 337, 337, 337, ":plankWood", ":plankWood", ":plankWood");
+
+// Timber Pavers
+//mod.addRecipe("timberPaver 6", 2, 1, "44:0", "44:0");

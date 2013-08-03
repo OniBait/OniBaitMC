@@ -1,0 +1,23 @@
+id = config.getBlockId("timberPaverID");
+name = "timberPaver";
+material = "rock";
+creativeTab = "decorations";
+stepSound = "rock";
+tickrate = 99999;
+semiTransparent = true;
+
+displayName[0] = "Paver";
+hardness[0] = 2.0;
+drop[0] = config.getBlockId("timberPaverID");;
+addToCreative[0] = true;
+fireSpreadSpeed[0] = 0;
+flammability[0] = 0;
+textureFileBack[0] = "paver_64.png";
+textureFileFront[0] = "paver_64.png";
+textureFileSides[0] = "paver_64.png";
+textureFileXP[0] = "paver_64.png";
+textureFileXN[0] = "paver_64.png";
+textureFileYP[0] = "paver_64.png";
+textureFileYN[0] = "paver_64.png";
+textureFileZP[0] = "paver_64.png";
+textureFileZN[0] = "paver_64.png";

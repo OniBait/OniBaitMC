@@ -4,7 +4,6 @@ material = "wood";
 creativeTab = "decorations";
 stepSound = "wood";
 tickrate = 99999;
-semiTransparent = true;
 
 displayName[0] = "Right-side Shutters";
 hardness[0] = 1.0;
